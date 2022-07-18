@@ -8,6 +8,7 @@ class Boot05Web01ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("hello");
     }
 
 }
